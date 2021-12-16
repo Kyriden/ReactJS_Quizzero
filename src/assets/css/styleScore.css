@@ -1,0 +1,12 @@
+#afficheScore {
+  margin-top: 10px;
+}
+
+#afficheScore h1 {
+  font-size: 40px;
+  font-family: "montserratBold";
+}
+
+#scoreValeur {
+  font-family: "DrGlitch";
+}
